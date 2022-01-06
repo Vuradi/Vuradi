@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vuradi
+- 👋 Hi, I’m @Vuradi. My name is Vladislav
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning JS, React.
 - 📫 How to reach me ...
