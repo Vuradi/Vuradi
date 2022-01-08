@@ -6,7 +6,7 @@
 ### Language and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=ReactJS&logoColor=E9D54D)
+![ReactJS](https://img.shields.io/badge/-React_JS-090909?style=for-the-badge&logo=React&logoColor=#0f61db)
 
 <!---
 Vuradi/Vuradi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
