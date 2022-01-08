@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning JS, React.
 - 📫 How to reach me: Telegram - @Ruozversa
 
+### Language and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=ReactJS&logoColor=E9D54D)
 
 <!---
 Vuradi/Vuradi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
