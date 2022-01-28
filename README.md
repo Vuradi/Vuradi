@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladislav Sharagin
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning JS, React.
+- 🌱 I’m currently learning JS, Vue, React.
 - 📫 How to reach me: Telegram - @Ruozversa
 
 ### Language and Tools
