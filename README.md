@@ -6,6 +6,7 @@
 ### Language and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![VueJS](https://img.shields.io/badge/-Vue_JS-090909?style=for-the-badge&logo=Vue&logoColor=#0f61db)
 ![ReactJS](https://img.shields.io/badge/-React_JS-090909?style=for-the-badge&logo=React&logoColor=#0f61db)
 
 <!---
